@@ -1,0 +1,2104 @@
+version: 0.1.0-alpha.1
+source: null
+info:
+  name: 呜喵码2025-02-23
+  version: 04-22+14_52_16_483
+  author: dsqm
+  description: ''
+data:
+  character_set: extended
+  repertoire:
+    :
+      unicode: 61443
+      tygf: 0
+      gb2312: 0
+      name: 帶头无一
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: derived_component
+        source: 
+        strokes:
+        - feature: reference
+          index: 0
+        - feature: reference
+          index: 1
+        - feature: reference
+          index: 2
+        - feature: reference
+          index: 3
+        - feature: reference
+          index: 5
+      ambiguous: false
+    :
+      unicode: 61442
+      tygf: 0
+      gb2312: 0
+      name: 齊头
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: compound
+        operator: ⿱
+        operandList:
+        - 亠
+        - 
+      ambiguous: false
+    :
+      unicode: 61450
+      tygf: 0
+      gb2312: 0
+      name: 谷无八
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: compound
+        operator: ⿱
+        operandList:
+        - 人
+        - 口
+      ambiguous: false
+    :
+      unicode: 61448
+      tygf: 0
+      gb2312: 0
+      name: 乑无撇
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: derived_component
+        source: 乑
+        strokes:
+        - feature: reference
+          index: 1
+        - feature: reference
+          index: 2
+        - feature: reference
+          index: 3
+        - feature: reference
+          index: 4
+        - feature: reference
+          index: 5
+      ambiguous: false
+    :
+      unicode: 61444
+      tygf: 0
+      gb2312: 0
+      name: 倉無人
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: compound
+        operator: ⿳
+        operandList:
+        - 户
+        - 一
+        - 口
+      ambiguous: false
+    :
+      unicode: 61445
+      tygf: 0
+      gb2312: 0
+      name: 亙字心
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: derived_component
+        source: 亙
+        strokes:
+        - feature: reference
+          index: 1
+        - feature: reference
+          index: 2
+        - feature: reference
+          index: 3
+        - feature: reference
+          index: 4
+      ambiguous: false
+    :
+      unicode: 61449
+      tygf: 0
+      gb2312: 0
+      name: 卓上
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: compound
+        operator: ⿱
+        operandList:
+        - 
+        - 日
+      ambiguous: false
+    :
+      unicode: 61446
+      tygf: 0
+      gb2312: 0
+      name: 婁字头无口
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: derived_component
+        source: 
+        strokes:
+        - feature: reference
+          index: 0
+        - feature: reference
+          index: 1
+        - feature: reference
+          index: 2
+        - feature: reference
+          index: 3
+        - feature: reference
+          index: 7
+      ambiguous: false
+    :
+      unicode: 61447
+      tygf: 0
+      gb2312: 0
+      name: 淵字边中无一
+      gf0014_id: null
+      gf3001_id: null
+      readings: []
+      glyphs:
+      - type: derived_component
+        source: 
+        strokes:
+        - feature: reference
+          index: 0
+        - feature: reference
+          index: 1
+        - feature: reference
+          index: 2
+        - feature: reference
+          index: 3
+        - feature: reference
+          index: 4
+        - feature: reference
+          index: 6
+        - feature: reference
+          index: 7
+        - feature: reference
+          index: 8
+      ambiguous: false
+  glyph_customization:
+    㱏:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 二
+      - 止
+    :
+      type: compound
+      tags: []
+      operator: ⿱
+      operandList:
+      - 
+      - 大
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+    袞:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 六
+      - 口
+      - 
+    舆:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 八
+    㲊:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 睿
+      - 殳
+    壴:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 士
+      - 
+    :
+      type: compound
+      operator: ⿰
+      operandList:
+      - 吅
+      - 口
+    丧:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 十
+      - 丷
+      - 
+    :
+      type: compound
+      operator: ⿴
+      operandList:
+      - 
+      - 幺
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+    齋:
+      type: compound
+      operator: ⿵
+      operandList:
+      - 齊
+      - 小
+    肅:
+      type: compound
+      operator: ⿻
+      operandList:
+      - 
+      - 
+    :
+      type: compound
+      operator: ⿶
+      operandList:
+      - 
+      - 爻
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 巾
+    :
+      type: compound
+      operator: ⿳
+      operandList:
+      - 罒
+      - 
+      - 罒
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    :
+      type: derived_component
+      source: 乍
+      strokes:
+      - feature: reference
+        index: 0
+      - feature: reference
+        index: 1
+      - feature: reference
+        index: 2
+      - feature: reference
+        index: 3
+      - feature: 横
+        start:
+        - 21
+        - 94
+        curveList:
+        - command: h
+          parameterList:
+          - 71
+    䜌:
+      type: compound
+      operator: ⿲
+      operandList:
+      - 糹
+      - 言
+      - 糸
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    隺:
+      type: compound
+      tags:
+      - 笔画搭挂
+      operator: ⿻
+      operandList:
+      - 冖
+      - 隹
+    㸃:
+      type: compound
+      operator: ⿺
+      operandList:
+      - 黑
+      - 占
+    禺:
+      type: compound
+      tags:
+      - 中竖截断
+      operator: ⿱
+      operandList:
+      - 田
+      - 
+    埀:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 千
+      - 北
+      - 土
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    重:
+      type: compound
+      tags:
+      - 中竖截断
+      operator: ⿱
+      operandList:
+      - 千
+      - 里
+    㐯:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 
+      - 口
+      - 香
+    䥉:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 釒
+      - 冤
+    衷:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 
+      - 丨
+      - 
+    章:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 音
+      - 十
+    哀:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 
+    韲:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 韭
+    龻:
+      type: compound
+      operator: ⿲
+      operandList:
+      - 糹
+      - 言
+      - 糹
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    :
+      type: compound
+      tags:
+      - 中竖截断
+      operator: ⿱
+      operandList:
+      - 
+      - 氺
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 黑
+    㢲:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 弜
+      - 
+    䃣:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 石
+      - 爲
+    粛:
+      type: compound
+      tags:
+      - 中竖截断
+      operator: ⿱
+      operandList:
+      - 肀
+      - 
+    䆴:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 穴
+      - 亀
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 止
+      - 白
+      - 巳
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    䘮:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 
+    裛:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 
+      - 巴
+      - 
+    :
+      type: compound
+      tags: []
+      operator: ⿱
+      operandList:
+      - 
+      - 
+    衰:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 
+      - 一
+      - 
+    容:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 穴
+      - 人
+      - 口
+    喪:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 
+    䱁:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 魚
+      - 夲
+    㧉:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 扌
+      - 气
+    䣋:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 采
+      - 阝
+    兗:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 六
+      - 兄
+    㰜:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 木
+      - 顛
+    盡:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 皿
+    :
+      type: compound
+      operator: ⿶
+      operandList:
+      - 
+      - 同
+      order:
+      - index: 0
+        strokes: 1
+      - index: 0
+        strokes: 2
+      - index: 0
+        strokes: 3
+      - index: 0
+        strokes: 4
+      - index: 1
+        strokes: 0
+      - index: 0
+        strokes: 0
+    㐔:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 乙
+    真:
+      type: compound
+      tags:
+      - 兴字底
+      operator: ⿳
+      operandList:
+      - 十
+      - 
+      - 
+    䐡:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 肉
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 幺
+      - 白
+      - 幺
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 儿
+    兴:
+      type: basic_component
+      strokes:
+      - feature: 点
+        start:
+        - 14
+        - 10
+        curveList:
+        - command: c
+          parameterList:
+          - 7
+          - 10
+          - 10
+          - 19
+          - 14
+          - 42
+      - feature: 点
+        start:
+        - 39
+        - 10
+        curveList:
+        - command: c
+          parameterList:
+          - 7
+          - 12
+          - 12
+          - 25
+          - 14
+          - 42
+      - feature: 撇
+        start:
+        - 83
+        - 10
+        curveList:
+        - command: c
+          parameterList:
+          - -5
+          - 13
+          - -10
+          - 27
+          - -20
+          - 42
+      - feature: 横
+        start:
+        - 5
+        - 52
+        curveList:
+        - command: h
+          parameterList:
+          - 90
+      - feature: 撇
+        start:
+        - 35
+        - 63
+        curveList:
+        - command: c
+          parameterList:
+          - -8
+          - 12
+          - -15
+          - 22
+          - -24
+          - 29
+      - feature: 点
+        start:
+        - 65
+        - 63
+        curveList:
+        - command: c
+          parameterList:
+          - 8
+          - 8
+          - 17
+          - 19
+          - 24
+          - 29
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 止
+      - 自
+      - 巳
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    兕:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 兀
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 鱼
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 火
+      - 言
+      - 火
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    倉:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 人
+      - 
+    兵:
+      type: compound
+      tags:
+      - 兴字底
+      operator: ⿰
+      operandList:
+      - 
+      - 
+    梥:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 穴
+      - 厶
+      - 木
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 
+      - 口
+      - 匕
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    棥:
+      type: compound
+      operator: ⿲
+      operandList:
+      - 木
+      - 爻
+      - 木
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 止
+      - 
+      - 巳
+      order:
+      - index: 1
+        strokes: 1
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    痲:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 冫
+      - 麻
+    䬒:
+      type: compound
+      operator: ⿺
+      operandList:
+      - 風
+      - 
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 又
+    䥧:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 釒
+      - 睿
+    衮:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 六
+      - 厶
+      - 
+    高:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 
+      - 口
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 口
+      - 
+    䑐:
+      type: compound
+      operator: ⿰
+      operandList:
+      - 臣
+      - 尓
+    :
+      type: derived_component
+      source: 肀
+      strokes:
+      - feature: reference
+        index: 0
+      - feature: reference
+        index: 1
+      - feature: reference
+        index: 2
+      - feature: 竖
+        start:
+        - 25
+        - 50
+        curveList:
+        - command: v
+          parameterList:
+          - 40
+      - feature: 横折钩
+        start:
+        - 25
+        - 50
+        curveList:
+        - command: h
+          parameterList:
+          - 50
+        - command: v
+          parameterList:
+          - 40
+      - feature: 横
+        start:
+        - 25
+        - 60
+        curveList:
+        - command: h
+          parameterList:
+          - 50
+      - feature: 横
+        start:
+        - 25
+        - 70
+        curveList:
+        - command: h
+          parameterList:
+          - 50
+      - feature: reference
+        index: 3
+    䘱:
+      type: compound
+      operator: ⿳
+      operandList:
+      - 六
+      - 
+      - 
+    :
+      type: compound
+      operator: ⿲
+      operandList:
+      - 
+      - 白
+      - 
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+      - index: 2
+        strokes: 0
+    彧:
+      type: compound
+      operator: ⿺
+      operandList:
+      - 或
+      - 
+      order:
+      - index: 0
+        strokes: 1
+      - index: 1
+        strokes: 0
+      - index: 0
+        strokes: 0
+    熏:
+      type: compound
+      tags:
+      - 中竖截断
+      operator: ⿱
+      operandList:
+      - 千
+      - 黑
+    :
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 口
+    鯗:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 魚
+    㖜:
+      type: compound
+      operator: ⿱
+      operandList:
+      - 
+      - 
+    :
+      type: compound
+      operator: ⿴
+      operandList:
+      - 
+      - 白
+      order:
+      - index: 0
+        strokes: 0
+      - index: 1
+        strokes: 0
+  tags:
+  - 行框
+  - 兴字底
+  - 横向包夹
+  - 戈部截断
+  - 中竖截断
+analysis:
+  classifier:
+    横折弯钩: 6
+    横折折折钩: 5
+    横撇弯钩: 5
+    圈: 7
+    竖折折钩: 5
+    横折折撇: 5
+    横捺: 5
+    提: 1
+    横: 1
+  degenerator:
+    feature:
+      横: 提
+      捺: 点
+    no_cross: false
+  selector:
+  - 少弱字根
+  - 根少优先
+  - 结构完整
+  - 能连不交
+  - 连续笔顺
+  - 能散不连
+  - 多强字根
+  - 取大优先
+  customize:
+    :
+    - 
+    - 
+    :
+    - 肀
+    - 八
+    :
+    - 丷
+    - '4'
+    孑:
+    - 了
+    - '1'
+    :
+    - 
+    - 
+    :
+    - '1'
+    - '2'
+    - '1'
+    畢:
+    - 田
+    - 艹
+    - 
+    :
+    - 丷
+    - 囗
+    - 
+    :
+    - 千
+    - 土
+    :
+    - '1'
+    - 
+    - 
+    匆:
+    - 
+    - '3'
+    - '4'
+    :
+    - 凵
+    - 人
+    :
+    - 田
+    - 十
+    :
+    - 片
+    - 爿
+    - '1'
+    㐃:
+    - 口
+    - '2'
+    :
+    - 十
+    - 田
+    兂:
+    - '1'
+    - '5'
+    - 儿
+    主:
+    - '4'
+    - 王
+    亙:
+    - '1'
+    - 
+    - '1'
+    䍏:
+    - 冂
+    - 
+    - '1'
+    :
+    - 禾
+    - 戈
+    :
+    - '4'
+    - 廾
+    - 
+    夨:
+    - '5'
+    - 大
+    㝳:
+    - 朩
+    - '4'
+    :
+    - '1'
+    - 口
+    - 龶
+    :
+    - 
+    - '1'
+    - 小
+    再:
+    - '1'
+    - 冂
+    - 
+    :
+    - 
+    - 
+    丈:
+    - '1'
+    - 乂
+    :
+    - '1'
+    - 
+    囬:
+    - 囗
+    - 
+    :
+    - 夕
+    - '1'
+    尨:
+    - 尤
+    - 彡
+    :
+    - 䒑
+    - 
+    - 
+    :
+    - 片
+    - 爿
+    :
+    - 土
+    - 丷
+    垂:
+    - 千
+    - 
+    - 士
+    :
+    - 
+    - 水
+    :
+    - 囗
+    - 
+    :
+    - '4'
+    - '3'
+    - '5'
+    - '5'
+    - '5'
+  strong:
+  - 厂
+  - 
+  weak:
+  - 亽
+  - 
+  - 
+algebra: {}
+form:
+  alphabet: qwertyuiopasdfghjklzxcvbnm
+  mapping_type: 2
+  mapping:
+    卩: lh
+    井: pw
+    匕: rh
+    寸: dl
+    甘: bk
+    :
+    - element: 业
+      index: 0
+    - element: 火
+      index: 1
+    亡: qh
+    八: av
+    巳:
+    - element: 已
+      index: 0
+    - 'k'
+    刀: eh
+    止: kh
+    束: fj
+    :
+    - element: 臼
+      index: 0
+    - element: 鼠
+      index: 1
+    末:
+    - element: 未
+      index: 0
+    - 'g'
+    :
+    - element: 业
+      index: 0
+    - element: 火
+      index: 1
+    丰: md
+    兀: pj
+    宀: uz
+    自: gj
+    土:
+    - element: 士
+      index: 0
+    - 'g'
+    口: wp
+    田: ei
+    用: rq
+    亼:
+    - element: 人
+      index: 0
+    - element: 亽
+      index: 1
+    豆: ft
+    卜: tj
+    又: ma
+    饣: tp
+    酉: av
+    齿: bf
+    上: ry
+    尸: ks
+    攵: sp
+    乡:
+    - element: 纟
+      index: 0
+    - 'v'
+    七: hc
+    :
+    - element: 母
+      index: 0
+    - element: 毋
+      index: 1
+    吂: rx
+    麻: kd
+    言: ds
+    高: cg
+    句: ti
+    未: sh
+    三: bp
+    羊: uw
+    无: tu
+    千: oe
+    丁: mr
+    六: ek
+    页: of
+    飞: fn
+    :
+    - element: 人
+      index: 0
+    - element: 亽
+      index: 1
+    㡀:
+    - element: 巾
+      index: 0
+    - 'e'
+    二: gf
+    五: rn
+    鼠:
+    - element: 臼
+      index: 0
+    - 'g'
+    凶: ms
+    且: wh
+    风: bh
+    匚: zx
+    业: vh
+    见: gj
+    卵:
+    - element: 
+      index: 0
+    - 'a'
+    冂: vu
+    弓: me
+    亻: hz
+    疋: vl
+    亽:
+    - element: 人
+      index: 0
+    - 'n'
+    戈: gp
+    日: oh
+    雨: mf
+    瓜:
+    - element: 爪
+      index: 0
+    - 'y'
+    毋:
+    - element: 母
+      index: 0
+    - 'y'
+    习: sh
+    衣: rp
+    牙:
+    - element: 齿
+      index: 0
+    - 'x'
+    示: fk
+    月: kx
+    四: co
+    白: gu
+    豕: xl
+    羽:
+    - element: 习
+      index: 0
+    - 'w'
+    虎: vd
+    夂:
+    - element: 攵
+      index: 0
+    - 'o'
+    可: tk
+    米: cs
+    乃: if
+    川: bl
+    鬼: ih
+    水: by
+    文: ue
+    曰:
+    - element: 日
+      index: 0
+    - 'y'
+    龙: ow
+    艮: hc
+    斗: du
+    烏:
+    - element: 鸟
+      index: 0
+    - element: 乌
+      index: 1
+    与: qj
+    门: ic
+    屮: fr
+    禾: ff
+    弋:
+    - element: 戈
+      index: 0
+    - 'k'
+    工: do
+    仑: jo
+    夊:
+    - element: 攵
+      index: 0
+    - element: 夂
+      index: 1
+    石: pg
+    禸: kl
+    :
+    - element: 广
+      index: 0
+    - element: 厂
+      index: 1
+    长: ej
+    乂: co
+    瓦: ec
+    九: xn
+    豸:
+    - element: 犬
+      index: 0
+    - 'z'
+    干: bj
+    云: cp
+    韦: ev
+    民: am
+    '6':
+    - element: '5'
+      index: 0
+    - 'z'
+    纟: bj
+    亍: go
+    合: kg
+    壬:
+    - element: 王
+      index: 0
+    - 'i'
+    的: kd
+    气: iy
+    予: km
+    卅:
+    - element: 艹
+      index: 0
+    - 'f'
+    户: oa
+    歹: et
+    辛: ri
+    :
+    - element: 广
+      index: 0
+    - element: 鹿
+      index: 1
+    鸟: jw
+    甫: uv
+    戊: aj
+    乌:
+    - element: 鸟
+      index: 0
+    - 'r'
+    吅: dp
+    父: ox
+    不: ep
+    尤: up
+    缶: ke
+    古: zo
+    '1': ib
+    由: qi
+    齐: nr
+    鱼: us
+    : pi
+    鹿:
+    - element: 广
+      index: 0
+    - 'z'
+    卌:
+    - element: 艹
+      index: 0
+    - 'd'
+    了: ja
+    已: wu
+    氏: vb
+    丩: jt
+    氵: xj
+    木: qy
+    里: qo
+    夕: ht
+    :
+    - element: 业
+      index: 0
+    - element: 火
+      index: 1
+    亠: rh
+    甲: no
+    方: or
+    行: fe
+    也: fi
+    欠: ia
+    十: xp
+    殳: px
+    : jq
+    灬:
+    - element: 业
+      index: 0
+    - element: 火
+      index: 1
+    角: ch
+    小: vw
+    穴: yz
+    西: qp
+    己:
+    - element: 已
+      index: 0
+    - 'i'
+    龷:
+    - element: 艹
+      index: 0
+    - element: 廿
+      index: 1
+    至: bl
+    女: ld
+    戋: ga
+    王: yr
+    斤: nz
+    皿: tp
+    :
+    - element: 业
+      index: 0
+    - element: 火
+      index: 1
+    厂:
+    - element: 广
+      index: 0
+    - 'h'
+    皮: dj
+    子: ug
+    车: cm
+    革: cd
+    㐄: bo
+    光: gv
+    弗: dn
+    足: pk
+    :
+    - element: 
+      index: 0
+    - element: 卯
+      index: 1
+    艹: jc
+    老: mt
+    :
+    - element: 艹
+      index: 0
+    - element: 卌
+      index: 1
+    舌: ho
+    厶: js
+    立: kc
+    :
+    - element: 艹
+      index: 0
+    - element: 卅
+      index: 1
+    :
+    - element: 士
+      index: 0
+    - element: 土
+      index: 1
+    '2': aj
+    专: ls
+    而: el
+    金: zu
+    竹: vc
+    生: bn
+    刂: su
+    臣: uo
+    隹: bo
+    之: jd
+    丣:
+    - element: 
+      index: 0
+    - element: 卯
+      index: 1
+    彐: zy
+    毌:
+    - element: 母
+      index: 0
+    - element: 毋
+      index: 1
+    身: il
+    爪: fd
+    疒: ra
+    广: tm
+    '7':
+    - element: 口
+      index: 0
+    - 'j'
+    :
+    - element: 广
+      index: 0
+    - element: 鹿
+      index: 1
+    面: rw
+    目: fp
+    骨: an
+    及:
+    - element: 乃
+      index: 0
+    - 'c'
+    旡:
+    - element: 无
+      index: 0
+    - 'i'
+    占: na
+    音: cu
+    各: vj
+    勹: te
+    册: tt
+    片: aq
+    矢: kt
+    彡: bu
+    力: yc
+    廿:
+    - element: 艹
+      index: 0
+    - 'j'
+    㠯:
+    - element: 吅
+      index: 0
+    - 'm'
+    '3': lq
+    巾: ig
+    虫: ov
+    儿: hx
+    廴:
+    - element: 辶
+      index: 0
+    - 'l'
+    辶: fj
+    耒:
+    - element: 未
+      index: 0
+    - 'i'
+    :
+    - element: 鸟
+      index: 0
+    - element: 乌
+      index: 1
+    两:
+    - element: 二
+      index: 0
+    - 'l'
+    黑: ex
+    我: yv
+    : ye
+    戼:
+    - element: 
+      index: 0
+    - element: 卯
+      index: 1
+    几: qw
+    阝: dk
+    卯:
+    - element: 
+      index: 0
+    - 'c'
+    囗: gx
+    犬: eu
+    聿: mf
+    夫: ed
+    母: su
+    毛: jv
+    牛: zj
+    亥: iv
+    臼: em
+    走:
+    - element: 足
+      index: 0
+    - 'q'
+    手: ss
+    支: lr
+    :
+    - element: 臼
+      index: 0
+    - element: 鼠
+      index: 1
+    舟: yj
+    山: te
+    火:
+    - element: 业
+      index: 0
+    - 'p'
+    马: rj
+    乍: sy
+    入:
+    - element: 人
+      index: 0
+    - 'q'
+    幺:
+    - element: 纟
+      index: 0
+    - 'i'
+    曲:
+    - element: 册
+      index: 0
+    - 's'
+    人: ne
+    尚: rl
+    亦: ph
+    辰: vx
+    : dz
+    '4': au
+    贝: mv
+    心: nt
+    大: zp
+    巴: zm
+    '5': pr
+    士: le
+    :
+    - element: 
+      index: 0
+    - element: 卯
+      index: 1
+    冫: cv
+    耳: gy
+    非: cj
+  grouping:
+    : 金
+    : 彐
+    糸: 纟
+    : 卜
+    : 七
+    門: 门
+    : 川
+    : 尚
+    : 
+    黒: 黑
+    : 专
+    : 夫
+    : 米
+    : 羊
+    : 刂
+    丬: 片
+    : 戈
+    : 刂
+    : 
+    : 臣
+    : 日
+    糹: 纟
+    : 衣
+    : 纟
+    龸: 尚
+    : 臼
+    : 手
+    : 业
+    冊: 册
+    : 又
+    : 木
+    : 鱼
+    巜: 川
+    頁: 页
+    : 水
+    : 屮
+    : 聿
+    侖: 仑
+    : 小
+    : 臼
+    : 衣
+    : 尸
+    : 马
+    : 㐄
+    : 艹
+    : 刀
+    龴: 厶
+    : 日
+    : 饣
+    : 车
+    : 尚
+    : 千
+    : 疋
+    : 匕
+    : 冂
+    虍: 虎
+    : 干
+    巛: 川
+    : 聿
+    覀: 西
+    : 水
+    尙: 尚
+    鳥: 鸟
+    : 十
+    : 弗
+    艸: 艹
+    : 业
+    肀: 聿
+    : 巴
+    : 页
+    尢: 尤
+    : 缶
+    : 聿
+    : 井
+    丱: 艹
+    : 巴
+    : 匚
+    : 月
+    長: 长
+    風: 风
+    : 彐
+    : 羊
+    : 八
+    罒: 四
+    : 衣
+    : 㐄
+    : 十
+    : 禸
+    : 巾
+    : 页
+    丂: 与
+    : 业
+    : 小
+    : 爪
+    凵: 冂
+    : 册
+    : 疋
+    : 屮
+    : 业
+    : 口
+    齒: 齿
+    : 彐
+    龍: 龙
+    : 舌
+    : 禾
+    㔾: 卩
+    叀: 专
+    : 禾
+    : 人
+    丷: 八
+    : 匕
+    : 木
+    斉: 齐
+    : 亦
+    : 心
+    : 
+    : 竹
+    : 大
+    : 衣
+    : 水
+    : 彐
+    : 立
+    : 鸟
+    : 月
+    : 止
+    : 月
+    戸: 户
+    : 斤
+    牜: 牛
+    飛: 飞
+    : 丰
+    䶹: 屮
+    : 用
+    : 业
+    : 衣
+    冖: 宀
+    攴: 攵
+    犭: 犬
+    馬: 马
+    : 王
+    : 乃
+    : 片
+    : 刂
+    : 水
+    貝: 贝
+    钅: 金
+    : 水
+    : 冫
+    㓁: 穴
+    : 豕
+    : 尚
+    : 八
+    癶: 八
+    : 与
+    扌: 手
+    廾: 艹
+    : 臼
+    : 几
+    : 匕
+    : 月
+    : 彐
+    : 月
+    : 彡
+    : 鱼
+    朩: 木
+    食: 饣
+    : 聿
+    : 弗
+    : 高
+    : 羊
+    釒: 金
+    : 鸟
+    : 心
+    見: 见
+    戶: 户
+    : 匚
+    衤: 衣
+    : 高
+    : 册
+    爫: 爪
+    卝: 艹
+    : 辛
+    : 齐
+    : 月
+    : 手
+    彳: 亍
+    : 㐄
+    : 马
+    : 山
+    䒑: 八
+    戉: 戊
+    訁: 言
+    : 臣
+    : 刂
+    : 冫
+    : 云
+    㐆: 身
+    : 牛
+    : 臼
+    : 卩
+    : 羊
+    冎: 骨
+    : 片
+    : 冂
+    : 小
+    : 目
+    : 片
+    : 氵
+    : 冂
+    龰: 止
+    歯: 齿
+    歺: 歹
+    亾: 亡
+    : 豆
+    : 
+    : 足
+    鬥: 斗
+    : 虫
+    : 聿
+    丌: 兀
+    氺: 水
+    镸: 长
+    : 臣
+    : 竹
+    㣺: 心
+    飠: 饣
+    龶: 丰
+    魚: 鱼
+    : 尸
+    車: 车
+    忄: 心
+    韋: 韦
+    : 氵
+    礻: 示
+    : 士
+    : 戊
+    : 龙
+    : 力
+    龵: 手
+    : 水
+    : 束
+    齊: 齐
+    : 彐
+    : 刀
+    : 八
+    : 臼
+    : 井
+    耂: 老
+    : 彡
+    : 雨
+    讠: 言
+    : 页
+    : 高
+    : 夫
+    爿: 片
+    : 戈
+    : 尸
+    彑: 彐
+    : 十
+    : 彐
+    : 艮
+    : 丰
+    : 小
+encoder:
+  max_length: 4
+  select_keys:
+  - '_'
+  - ';'
+  auto_select_length: 4
+  auto_select_pattern: ^[a-z]{4}$
+  sources:
+    s12:
+      object:
+        type: 字根
+        rootIndex: 1
+      index: 1
+      next: null
+    s9:
+      object:
+        type: 字根
+        rootIndex: 2
+      index: 1
+      next: s12
+    s4:
+      object:
+        type: 字根
+        rootIndex: 3
+      index: 0
+      next: s5
+    s2:
+      object:
+        type: 字根
+        rootIndex: 1
+      index: 1
+      next: s10
+    s6:
+      object:
+        type: 字根
+        rootIndex: 2
+      index: 0
+      next: s7
+    s1:
+      object:
+        type: 字根
+        rootIndex: 1
+      index: 0
+      next: c0
+    s3:
+      object:
+        type: 字根
+        rootIndex: 2
+      index: 0
+      next: s4
+    s5:
+      object:
+        type: 字根
+        rootIndex: -1
+      index: 0
+      next: null
+    s0:
+      object: null
+      next: s1
+    s7:
+      object:
+        type: 字根
+        rootIndex: 3
+      index: 0
+      next: s11
+    s8:
+      object:
+        type: 字根
+        rootIndex: 2
+      index: 0
+      next: s9
+    s10:
+      object:
+        type: 笔画
+        rootIndex: 1
+        strokeIndex: 1
+      index: 0
+      next: null
+    s11:
+      object:
+        type: 字根
+        rootIndex: 3
+      index: 1
+      next: null
+  conditions:
+    c0:
+      object:
+        type: 字根
+        rootIndex: 4
+      operator: 存在
+      positive: s3
+      negative: c2
+    c2:
+      object:
+        type: 字根
+        rootIndex: 3
+      operator: 存在
+      positive: s6
+      negative: c1
+    c1:
+      object:
+        type: 字根
+        rootIndex: 2
+      operator: 存在
+      positive: s8
+      negative: s2
+  rules:
+  - length_equal: 2
+    formula: AaAbBaBb
+  - length_equal: 3
+    formula: AaBaCaCb
+  - length_in_range:
+    - 4
+    - 10
+    formula: AaBaCaZa
+  short_code:
+  - length_equal: 1
+    schemes:
+    - prefix: 1
+      count: 1
+    - prefix: 2
+      count: 1
+    - prefix: 3
+      count: 1
+optimization:
+  objective:
+    characters_full:
+      tiers:
+      - top: 1500
+        duplication: 0.3
+      duplication: 1428.0
+      pair_equivalence: 0.8
+      levels: []
+    words_full:
+      duplication: 40.0
+      key_distribution: 0.05
+      pair_equivalence: 0.7752
+    characters_short:
+      tiers:
+      - top: 3000
+        duplication: 0.2
+      duplication: 10000.0
+      key_distribution: 0.06
+      pair_equivalence: 0.8772
+      levels:
+      - length: 2
+        frequency: -2.0
+  constraints:
+    elements: []
+    indices: []
+    element_indices: []
+  metaheuristic:
+    algorithm: SimulatedAnnealing
+    parameters:
+      t_max: 1.0
+      t_min: 0.00001
+      steps: 500000
+diagram:
+  layout:
+  - keys:
+    - 'q'
+    - 'w'
+    - 'e'
+    - 'r'
+    - 't'
+    - 'y'
+    - 'u'
+    - 'i'
+    - 'o'
+    - 'p'
+  - keys:
+    - 'a'
+    - 's'
+    - 'd'
+    - 'f'
+    - 'g'
+    - 'h'
+    - 'j'
+    - 'k'
+    - 'l'
+  - keys:
+    - 'z'
+    - 'x'
+    - 'c'
+    - 'v'
+    - 'b'
+    - 'n'
+    - 'm'
+  contents:
+  - type: uppercase
+    style: ''
+  - type: element
+    match: ''
+    style: ''
+  row_style: |-
+    display: flex;
+    justify-content: center;
+    gap: 2mm;
+  cell_style: |-
+    position: relative;
+    width: 35mm;
+    height: 55mm;
+    border: 0.3mm #d3d3d3 solid;
+    border-radius: 1mm;
