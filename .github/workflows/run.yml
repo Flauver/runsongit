@@ -12,4 +12,4 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run
-      run: cd run && ./chai 喵.yaml optimize
+      run: cd run && chmod +x chai && ./chai 喵.yaml optimize
