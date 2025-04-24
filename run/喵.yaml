@@ -966,7 +966,7 @@ optimization:
     parameters:
       t_max: 1
       t_min: 0.000001
-      steps: 7000000
+      steps: 300000
   constraints:
     elements: []
     indices: []

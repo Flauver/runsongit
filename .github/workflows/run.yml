@@ -13,3 +13,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Run
       run: cd run && chmod +x chai && ./chai 喵.yaml optimize
+    - name: Upload
+      uses: actions/upload-artifact@v4
+      with:
+        name: target
+        path: run/out*/
